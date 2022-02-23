@@ -1,0 +1,413 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sermon at the funeral of the Lady Elizabeth Alston, wife of Sir Thomas Alston, Knight and Baronet preached in the parish-church of Woodhill in Bedford-shire, Septemb. 10, 1677 / by William Dillingham ...</title>
+            <author>Dillingham, William, 1617?-1689.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1678</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 66 KB of XML-encoded text transcribed from 22 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A36020</idno>
+            <idno type="STC">Wing D1487</idno>
+            <idno type="STC">ESTC R10439</idno>
+            <idno type="EEBO-CITATION">12276916</idno>
+            <idno type="OCLC">ocm 12276916</idno>
+            <idno type="VID">58468</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A36020)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 58468)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 625:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sermon at the funeral of the Lady Elizabeth Alston, wife of Sir Thomas Alston, Knight and Baronet preached in the parish-church of Woodhill in Bedford-shire, Septemb. 10, 1677 / by William Dillingham ...</title>
+                  <author>Dillingham, William, 1617?-1689.</author>
+               </titleStmt>
+               <extent>44 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Jonathan Robinson ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1678.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Alston, Elizabeth, --  Lady, d. 1677.</term>
+               <term>Bible. --  N.T. --  Timothy, 2nd, IV, 7-8 --  Sermons.</term>
+               <term>Funeral sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-09</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2012-09</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:58468:1" rendition="simple:additions"/>
+            <p>A SERMON AT THE FUNERAL OF THE Lady ELIZABETH ALSTON. WIFE of Sir THOMAS ALSTON, Knight and Baronet; Preached in the Pariſh-Church of <hi>Woodhill</hi> in <hi>Bedford-ſhire, Septemb.</hi> 10. 1677. By WILLIAM DILLINGHAM, D. D. and Rectour there. Now Publiſhed at the Inſtance of her neareſt Relations.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Jonathan Robinſon,</hi> at the Golde Lion in St. <hi>Pauls Church yard.</hi> 1678.</p>
+            <figure>
+               <figDesc>compartment or black outline of the shape of a tombstone</figDesc>
+            </figure>
+         </div>
+         <div type="imprimatur">
+            <pb facs="tcp:58468:2"/>
+            <p>Imprimatur.</p>
+            <closer>
+               <date>Novemb. 1. 1677.</date>
+               <signed>
+                  <hi>C. Alſton,</hi> R.P.D. <hi>Hen.</hi> Epiſc. <hi>Lond.</hi> à Sacris Domeſt.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="5" facs="tcp:58468:2"/>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>2 TIM. 4.7, 8.</hi>
+                  </bibl>
+                  <p>I have fought a good Fight, I have finiſhed my Courſe, I have kept the Faith. Henceforth is laid up for me a Crown of Righteouſneſs; which the Lord, the Righteous Judge, ſhall give me at that day.</p>
+               </q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">I</seg>T is not at all to be doubted, but that the bleſſed Apoſtle St. <hi>Paul,</hi> who (as he re<g ref="char:EOLhyphen"/>ports of himſelf,) did <hi>die daily,</hi> and was <hi>in Deaths often,</hi> did live under a conſtant Senſe of his own Mortality. But yet at the time of his writing this Epiſtle, (which was, as the Poſtſcript tells us, when he was brought the ſecond time before <hi>Nero</hi>) he ſeems to have had more than ordi<g ref="char:EOLhyphen"/>nary apprehenſions of his approaching End. Death was now already in his view, and coming towards him. So much he lets us know in the Verſe before the Text: <hi>For I am now ready to be offered, and the time of my Depar<g ref="char:EOLhyphen"/>ture is at hand.</hi> 
+               <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> not ſo much imminent, as al<g ref="char:EOLhyphen"/>ready come.</p>
+            <p>Now ſeeing that Death is an Enemy vvhich vve muſt all encounter; it is all our Concernments to pre<g ref="char:EOLhyphen"/>pare for it. And that vve may ſo do, it vvill be of
+<pb n="6" facs="tcp:58468:3"/>ſingular uſe and advantage to us, to have obſerv'd how St. <hi>Paul,</hi> a good, old, and try'd Souldier of <hi>Jeſus Chriſt,</hi> doth prepare himſelf to receive the Shock, and to cope with this King of Terrours; and to know what Cordials he makes uſe of to ſupport his Heart againſt the Fear of Death approaching.</p>
+            <p>The Text preſents us with a twofold Meditation of St. <hi>Paul.</hi>
+            </p>
+            <p n="1">1. A Meditation of vvhat vvas paſt; a Reflexion upon his former Life vvell-ſpent. <hi>I have fought a good Hight,</hi> &amp;c. <hi>Ver.</hi> 7:</p>
+            <p n="2">2. A Meditation on what was future; being a Pro<g ref="char:EOLhyphen"/>ſpect into the Life to come, and the Glory of it. <hi>Hence<g ref="char:EOLhyphen"/>forth,</hi> &amp;c. Ver. 8.</p>
+            <p>The Apoſtle's Work, and his Reward; his Fidelity, and his Crown. The firſt whereof hath an Order and Subordination to the other. The way to Happineſs is by Holineſs <hi>without which no man ſhall ever ſee the Lord.</hi> And the way to have aſſurance of Eternal Life is, to get the Te<g ref="char:EOLhyphen"/>ſtimony of a good Conſcience, that we have led our Lives well here on Earth. And this double Aſſurance joyn<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d together, did enable St. <hi>Paul</hi> to look upon Death but as a <hi>Departure,</hi> a mild and harmleſs thing; a De<g ref="char:EOLhyphen"/>parture, and that not from home, but from an Inn, to go unto his Father's Houſe. <hi>The time of my Departure is at hand.</hi>
+            </p>
+            <pb n="7" facs="tcp:58468:3"/>
+            <p>
+               <hi>Medit.</hi> 1. I ſhall begin vvith St. <hi>Paul</hi>'s firſt Medicati<g ref="char:EOLhyphen"/>on, or his Reflexion upon his vvell-led Life. Where<g ref="char:EOLhyphen"/>in vve have two things to be conſider'd by us. 1. A Character of the Nature of a Chriſtian Life. 2. The comfortable Teſtimonial which <hi>Paul</hi>'s Conſcience gave him, <hi>viz.</hi> that he had led his Life well. <hi>I have fought a good Fight,</hi> &amp;c.</p>
+            <p n="1">1. We have here a Character expreſſing and ſetting forth unto us the Nature of a Chriſtian Life; and that under a threefold Metaphor and Alluſion. 1. Of a <hi>Fight.</hi> 2. Of a <hi>Courſe,</hi> or <hi>Race.</hi> 3. Of the <hi>Cuſtody</hi> or <hi>Keeping</hi> of ſomething committed to our Truſt.</p>
+            <p n="1">1. The Chriſtian Life is here compared to a <hi>Fight,</hi> and figuratively ſo called.</p>
+            <p>Sometimes the Life of Man is compar'd to a <hi>Warfare,</hi> in reſpect of thoſe many Labours and Difficulties vvhich he is vvont to encounter vvithal. Thus <hi>Job</hi> 7.1. <hi>Is there not an appointed time to Man upon the Earth?</hi> Where for an <hi>appointed Time,</hi> the Marginal reading is <hi>a Warfare,</hi> by vvhich is meant a Time of Warring. According hereunto vve find, that the <hi>Roman</hi> Legionary Souldiers had a certain Period or Term of Years, ſometimes ten, ſometimes twenty, or more Years, during vvhich they were to continue liſted in the Muſter-Roll, and to fight under their Emperour's Banner: but vvhen that Time vvas once expired, then they were ſaid to be <hi>Emeriti &amp; Exauctorati,</hi> diſcharged of their Oath, and diſmiſſed
+<pb n="8" facs="tcp:58468:4"/>from ſerving any longer, and honourably rewarded vvith Gifts and Poſſeſſions. To ſuch a Term of Time Alluſion is made, <hi>Iſa.</hi> 40.2. Where it is ſaid of <hi>Jeruſa<g ref="char:EOLhyphen"/>lem,</hi> that <hi>her Warfare is accompliſh'd.</hi> And ſo <hi>Rev.</hi> 3.12. <hi>He that overcometh, ſhall go no more out,</hi> that is, to Warfare, he hath his <hi>quietus est.</hi>
+            </p>
+            <p>But if the natural Life of Man be a kind of Warfare, a Chriſtian Life is much more deſervedly to be ſo ac<g ref="char:EOLhyphen"/>counted, a Spiritual Warfare. And thus <hi>Paul</hi> expreſſeth it, 1 <hi>Tim.</hi> 1.18. <hi>That thou mighteſt war a good Warfare.</hi> And 2 <hi>Tim.</hi> 2.3. <hi>Endure Hardſhip, as a good Souldier of Jeſus Chriſt.</hi>
+            </p>
+            <p>There is a double ſort of Fighting, vvhich <hi>Paul</hi> hath Alluſion to, when he ſpeaks of the Chriſtian Life.</p>
+            <p>Sometimes he ſpeaks of Fighting in a Military ſenſe, as one Enemy fights with another in the Field, which is properly called <hi>Warring.</hi> And of this he ſpeaks in the place but now mentioned; <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>that thou mighteſt war,</hi> 
+               <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>a good Warfare.</hi>
+            </p>
+            <p>Otherwhile the Apoſtle ſpeaks of Fighting in an <hi>Ago<g ref="char:EOLhyphen"/>niſtical</hi> ſenſe, as Men were wont to fight of old in the <hi>Greek Olympicks,</hi> or in the <hi>Roman Cirque</hi> and <hi>Amphithea<g ref="char:EOLhyphen"/>ter,</hi> when they contended for Maſteries, where the Victor's Guerdon was Life and Glory. And unto this <hi>Paul</hi> ſeems to allude in the Text, as the Word <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, here uſed by him, doth import. But I ſhall not be curi<g ref="char:EOLhyphen"/>ous to obſerve the Difference, but ſpeak of them promiſ<g ref="char:EOLhyphen"/>cuouſly.</p>
+            <pb n="9" facs="tcp:58468:4"/>
+            <p>The Life of a Chriſtian is fitly compared unto a Fight or Warfare; as will appear by the following Con<g ref="char:EOLhyphen"/>ſiderations.</p>
+            <p n="1">1. As in War there is always ſome <hi>Cauſe</hi> or other con<g ref="char:EOLhyphen"/>tended for; whether it be to revenge Injuries, or to de<g ref="char:EOLhyphen"/>fend Life and Liberty, or to obtain Dominion, or to win Glory and Renown: So is it here; Chriſtians have a Cauſe which they fight in, the Cauſe of God, the Cauſe of Chriſt, and of their own Souls; they contend for the Glory and Honour of God, for the Name and Faith of Chriſt, for the eternal Salvation of their own Souls. All theſe are concern'd in our Chriſtian War<g ref="char:EOLhyphen"/>fare; all theſe doth Satan ſeek to hinder and de<g ref="char:EOLhyphen"/>ſtroy.</p>
+            <p n="2">2. As in Wars and Fights, ſo here, are two adverſe Parties, <hi>Enemies</hi> and Antagoniſts to one another, fight<g ref="char:EOLhyphen"/>ing and contending with one another. And thoſe we find to be liſted under oppoſite Generals. On the one ſide, Jeſus Chriſt, the Prince of Life and Salvation: and under him do fight all true Believers. On the other ſide is Satan, the Prince of the Power of the Air, and of the Kingdom of Darkneſs, who ruleth and comman<g ref="char:EOLhyphen"/>deth in the Children of Diſobedience; and under him are liſted Legions of Apoſtate Spirits, and wicked Men.</p>
+            <p>The Devil and the World fight againſt us by Temp<g ref="char:EOLhyphen"/>tations on the right hand, and on the left, enticing and
+<pb n="10" facs="tcp:58468:5"/>alluring us to Sin; terrifying and perſecuting us, to drive us from God and Gooodneſs. And with this Hoſt aſ<g ref="char:EOLhyphen"/>ſaulting us from without, do combine a Party within us, our mutinous Luſts and Corruptions, the Fleſh luſting againſt the Spirit; without which all Satan's Attempts upon us would be in vain, as we ſee thoſe againſt Je<g ref="char:EOLhyphen"/>ſus Chriſt were; becauſe, as our Saviour ſaith, <hi>Joh.</hi> 14.30. <hi>The Prince of this World cometh, and hath nothing in me.</hi> No Corruption to ſide with him, no combuſtible Mat<g ref="char:EOLhyphen"/>ter for his Wild-fire to take hold of; ſo that all his At<g ref="char:EOLhyphen"/>tempts againſt him were in vain. And ſo would they be againſt us alſo, were it not for thoſe Boſom-Traitors which harbour in our Breaſts, thoſe Luſts <hi>which war in our Members.</hi> It is the Tinder within us, that makes Satan's fiery Darts and Temptations ſo dangerous to us.</p>
+            <p>Theſe our Enemies are repreſented unto us as very formidable and dangerous; and ſo they are, whether we conſider,</p>
+            <p n="1">1. Their <hi>Number.</hi> They are very numerous, Le<g ref="char:EOLhyphen"/>gions of Devils, and a whole World of wicked Men. But yet if <hi>Beelzebub</hi> commanded only an Army of Flies, though never ſo numerous and ſwarming, the danger were not ſo great. But add to their Number,</p>
+            <p n="2">2. Their <hi>Power</hi> and Might. They are Angels; and how great the natural Power of one ſingle Angel is, wit<g ref="char:EOLhyphen"/>neſs the Camp of the <hi>Aſſyrians,</hi> 2 <hi>Kin.</hi> 19.35. where one
+<pb n="11" facs="tcp:58468:5"/>Angel in one Night made a Carnage of no leſs than an hundred eighty five thouſand Men. Hence it is that Angels are ſaid to <hi>excel in Strength,</hi> Pſal. 103. 20. And although Satan and his Train be fallen from their Hap<g ref="char:EOLhyphen"/>pineſs &amp; Holineſs, and extremely debauch'd in their Mo<g ref="char:EOLhyphen"/>rals; yet their natural Powers do ſtill continue very great; and therefore they are called <hi>Principalities</hi> and <hi>Powers,</hi> and <hi>ſpiritual Wickedneſs in high Places,</hi> Eph. 6.12. <hi>In high Places,</hi> ſurely a great Advantage in Wreſtling, and no leſs in Fighting.</p>
+            <p>But although our Enemies were never ſo numerous, and never ſo ſtrong, yet if they had no Wiſdom to order their Numbers, and to manage their Strength, they might come to Ruin by their own Weight; as we know that great Armies have proved ſometimes unweildy and cumberſom to themſelves, and by frequent Mutinies have in time fretted themſelves to nothing. But,</p>
+            <p n="3">3. Our Enemies are <hi>ſubtle</hi> Enemies, managing their Force with exceeding great Policy and Cunning, and are wont to prevail more by Sleight than Power.</p>
+            <p>The Devil is called the <hi>Old Serpent,</hi> (Rev. 12.9.) A <hi>Serpent,</hi> ſubtle by Nature; but much more by long Uſe and Experience, and <hi>old Serpent,</hi> He hath many Windings and Turnings, many Devices and Stratagems, many Wiles and Methods to circumvent us by.</p>
+            <p n="4">4. Our Spiritual Enemies are <hi>Cruel</hi> and <hi>Mercileſs,</hi> which makes them ſtill the more dangerous. This adds Will to
+<pb n="12" facs="tcp:58468:6"/>their Power, and ſets their Subtlety on work to contrive Miſchief againſt us. In this reſpect Satan is ſaid to have been a <hi>Murderer from the beginning,</hi> John 8.44. And called a <hi>red Dragon,</hi> Rev. 12.3. A <hi>roaring Lion, ſeeking whom he may devour,</hi> 1 Pet. 5.8.</p>
+            <p n="5">5. This his Malice to our Souls makes him <hi>watchful</hi> and reſtleſs, exceedingly induſtrious to work us Miſchief, and to bring Diſhonour unto God. We ſee with what indefatigable Induſtry he proſecuted our Savi<g ref="char:EOLhyphen"/>our Chriſt, by tempting him again and again, by ſlan<g ref="char:EOLhyphen"/>dering and blaſpheming him, by crucifying him, and even after Death, by denying and belying his Reſur<g ref="char:EOLhyphen"/>rection. He left no Stone unturn'd, that by any means, if it had been poſſible, he might have hindred God's Glory, and Man's Salvation.</p>
+            <p>Thus we ſee what a dangerous Adverſary we have to fight againſt: <hi>whom reſist ſtedfast in the Faith; for we are not ignorant of his Devices.</hi> And now 'tis high time to be<g ref="char:EOLhyphen"/>think our ſelves wherewith we may oppoſe him, and defend our ſelves.</p>
+            <p n="3">3. As in other Fightings, ſo in this Chriſtian Combat, we are furniſh'd with <hi>Weapons,</hi> both for the offenſive and defenſive Part, and thoſe both of them tried and approved. 2 <hi>Cor.</hi> 10.4, 5. <hi>The Weapons of our Warfare are not carnal, but mighty through God, to the pulling down of ſtrong Holds.</hi> And we have <hi>the whole Armour of God,</hi> which is to be put on by every one of us, that we may
+<pb n="13" facs="tcp:58468:6"/>be able to ſtand againſt the Violence and Wiles of the Devil. The ſeveral Parts whereof we may ſee deſcribed, <hi>Epheſ.</hi> 6.13, &amp;c. <hi>Truth, Righteouſneſs,</hi> and <hi>Faith,</hi> the <hi>Word of God,</hi> and <hi>Prayer.</hi>
+            </p>
+            <p>Stand therefore upon your watch, having your Loins girt, fight the good Fight of Faith, quit your ſelves like Men: but be ſure you take Chriſt for your General; he is the <hi>Captain of our Salvation,</hi> Heb. 2.10. He hath baff<g ref="char:EOLhyphen"/>led the Devil, and overcome the World: therefore be of good Comfort; <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. <hi>God will give us the Victory through Jeſus Chriſt our Lord,</hi> 1 Cor. 15.57. The Quarrel is ancient, as old as <hi>Gen.</hi> 3.15. Our Enemies are formidable; but our Cauſe is good, and God is on our ſide, and ſo long who ſhall be againſt us? who can ſtand againſt him? Not the Gates of Hell, (the Plots and Power of it) nor the Depths of Satan, nor all his whole <hi>Militia</hi> ſhall be able ever to prevail againſt the Church of Chriſt. <hi>Be thou faithful unto Death, and he ſhall give thee a Crown of Life.</hi> For thoſe that conquer ſhall be rewarded; as ſhall be ſhewed anon.</p>
+            <p>So much briefly of the firſt Metaphor whereby the Life of a Chriſtian is ſet forth unto us: It is a <hi>Fight, I have fought a good Fight.</hi> A <hi>good Fight</hi> it is in reſpect of the <hi>Cauſe,</hi> good alſo in reſpect of the <hi>Nature</hi> of the Fight, which is to be managed by well-doing; and good alſo in reſpect of the <hi>Succeſs,</hi> which is Victory and Happineſs. But I haſten to the next Reſemblance of a Chriſtian Life.</p>
+            <pb n="14" facs="tcp:58468:7"/>
+            <p n="2">2. The Chriſtian Life is compared to a <hi>Courſe,</hi> or <hi>Race, I have finiſhed my Courſe.</hi> A <hi>Courſe of Life</hi> is a Phraſe in ordinary uſe with us at this day; as <hi>Spatium vitae decurrere,</hi> was with the ancient <hi>Romans.</hi> But it ſeems in this Place to have been borrowed by the Apo<g ref="char:EOLhyphen"/>ſtle from the running of a Race uſed in the <hi>Olympick</hi> Games by the <hi>Grecians,</hi> called <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, the very word here uſed by St. <hi>Paul.</hi> To this we may obſerve him of<g ref="char:EOLhyphen"/>ten alluding in his Epiſtles. Heb. 12.1. <hi>Let us run with Patience the Race that is ſet before us, laying aſide every weight.</hi> And <hi>Phil.</hi> 3.14. He ſaith of himſelf, <hi>I preſs toward the Mark, for the Prize of the high Calling of God in Chriſt Je<g ref="char:EOLhyphen"/>ſus;</hi> where the Expreſſions of <hi>preſſing toward the Mark,</hi> and <hi>for the Prize,</hi> have manifeſt alluſion to the running of a Race.</p>
+            <p>Now the Race of a Chriſtian is no other than a careful and conſciencious and zealous walking in the ways of God, which lead unto Salvation; wherein we ſhall meet with many hindrances. (1.) <hi>The Sin that ſo eaſi<g ref="char:EOLhyphen"/>ly beſets us,</hi> which is ſpoken of in <hi>Heb.</hi> 12.1. Our Corruption within us, which hopples and intangles us, ſo that we cannot do the things which we would. (2.) Without us we ſhall meet with many Rubs laid in our way, many Snares, many Scandals, many Stumbling-blocks, laid by <hi>Satan</hi> to intrap us, and make us fall. The World's golden Ball of Pleaſure and Profit is caſt before us, to entice us out of the way; Satan's wild-fire
+<pb n="15" facs="tcp:58468:7"/>of Perſecution is flaſh'd in our Faces, to affright us from our Chriſtian Courſe; our way is hedged up with thorns; or elſe carnal Relations and worldly Intereſt hang about our Necks, to pull us back. So that there needs much ſtrength of Grace, much Courage and Reſolution, much Earneſtneſs and Contention, much Labour and preſſing forward, that ſo we may lay hold on the Prize, Eternal Life, the Crown of Glory, which is held forth to us for a Prize, and ſhall be given unto us by the Judg, the <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, and Rewarder, if we ſtrive lawfully, and run well. <hi>So run therefore, that ye may obtain,</hi> 1 Cor. 9.24.</p>
+            <p n="3">3. The Chriſtian Life is here ſet forth unto us under the Metaphorof keeping a Truſt; <hi>I have kept the Faith.</hi>
+            </p>
+            <p>Where by <hi>Faith</hi> ſome underſtand Faithfulneſs or Fi<g ref="char:EOLhyphen"/>delity, that Engagement which is uſually given by Soul<g ref="char:EOLhyphen"/>diers to their General by an Oath, which is called <hi>Sacra<g ref="char:EOLhyphen"/>mentum militare.</hi> And ſo to <hi>keep the Faith</hi> is to keep the Oath, by fighting faithfully, and not falſly betraying the Cauſe of Chriſt; neither by a treacherous running over to the Enemy, as a <hi>Transfuga partium;</hi> nor yet by a cow<g ref="char:EOLhyphen"/>ardly running away and drawing back from their Co<g ref="char:EOLhyphen"/>lours, deſerting the Cauſe of Chriſt and the Goſpel, which they had ſworn to defend; as all of us have in our Baptiſmal Vow.</p>
+            <p>But by <hi>Faith</hi> in this place, I think is rather to be un<g ref="char:EOLhyphen"/>derſtood <hi>Fides quae creditur,</hi> the Truth and Faith of Chriſt in the Goſpel: in which ſenſe the Saints are deſcribed.
+<pb n="16" facs="tcp:58468:8"/>(<hi>Rev.</hi> 14.12.) to be ſuch as <hi>keep the Commandments, and the Faith of Jeſus.</hi>
+            </p>
+            <p>The Metaphor of <hi>keeping</hi> this Faith, ſeems to have been borrowed either from</p>
+            <p n="1">1. The keeping of a Fort or ſtrong Caſtle. The Faith and Truth of Chriſt is a ſtrong Hold, which is committed to the keeping and defending of every Chriſtian Soul; and while we keep this Fortreſs, that will keep us ſafe, ſafe from the power of the Enemy, and we ſhall be <hi>kept by the power of God through Faith unto Salvation,</hi> 1 Pet. 1.5. Where the Word <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, ſignifies properly kept as a Gariſſon is kept. Or,</p>
+            <p n="2">2. The keeping of a precious Jewel or Treaſure, com<g ref="char:EOLhyphen"/>mitted to our charge and cuſtody. The Faith and Truth of Chriſt is a <hi>Depoſitum</hi> committed to us, and intruſted with us. To this St. <hi>Jude</hi> ſeems to allude, (<hi>Jude</hi> 3.) when he exhorts all to <hi>contend earneſtly for the Faith which was once delivered unto the Saints.</hi> The like Alluſion hath St. <hi>Paul,</hi> when he exhorts <hi>Timothy,</hi> 1 Tim. 6. ver. 20, 21. <hi>O Timothy, keep that which is committed to thy truſt:</hi> and what that was may appear by the Oppoſition there ſubjoyn'd, <hi>Avoiding profane and vain Bablings, and oppoſitions of Science falſly ſo called; which ſome profeſſing, have erred concerning the Faith.</hi> The <hi>Faith</hi> was the <hi>Depoſitum,</hi> and the <hi>god thing</hi> committed to <hi>Timothy,</hi> as <hi>Paul</hi> phraſes it, and exhorts him again to keep, 2 <hi>Tim.</hi> 1.14. the ſame which in verſe 13. he had expreſſed in other word, <hi>viz. Hold fast
+<pb n="17" facs="tcp:58468:8"/>the Form of ſound Words, which thou haſt heard of me, in Faith and Love which is in Christ Jeſus.</hi>
+            </p>
+            <p>If we keep this <hi>Faith</hi> and <hi>Truth,</hi> that will keep our Souls: for by keeping his Faith we truſt in him, and commit our Souls to his keeping, who is the faithful and watchful Lord-Keeper of his <hi>Iſrael.</hi> And therefore St. <hi>Peter</hi> exhorts, <hi>Commit the keeping of your Souls to him in well-doing, as unto a faithful Creatour,</hi> 1 Pet. 4.19. And this did encourage St. <hi>Paul</hi> to ſay, (2 <hi>Tim.</hi> 1.12.) <hi>I know whom I have truſted, and I am perſwaded that he is able to keep that which I have committed unto him againſt that Day.</hi> And as our Savi<g ref="char:EOLhyphen"/>our Chriſt did pray to his Father, (<hi>John</hi> 17.11.) that he would keep all his Elect, <hi>Holy Father, keep through thine own Name, thoſe whom thou haſt given me:</hi> So he promiſes (<hi>Rev.</hi> 3.10.) to the Church in <hi>Philadelphia, Becauſe thou haſt kept the Word of my Patience, I alſo will keep thee from the hour of Temptation.</hi>
+            </p>
+            <p n="3">3. Or elſe this <hi>keeping</hi> of the Faith may allude unto a Souldier's keeping of his Station, or a Wreſtler keeping of his Ground. But the former are (as I conceive) more proper to the place; and therefore I ſhall purſue this no further, but come to conſider what the thing is which is here meant by <hi>keeping the Faith.</hi> Now to <hi>keep the Faith</hi> is,</p>
+            <p n="1">1. Truly and firmly to <hi>believe</hi> the Truth of Chriſt, to aſſent unfeignedly to it, to receive it, not into the Ear only, but into the Heart alſo, and there to keep it and cleave unto it.</p>
+            <pb n="18" facs="tcp:58468:9"/>
+            <p n="2">2. To keep the Truth and Faith of Chriſt is to <hi>obey</hi> it; as to keep God's Commandments is to <hi>obey</hi> and do them. The Truth and Faith of Chriſt are kept in an holy Life.</p>
+            <p n="3">3. To keep the Truth and Faith of Chriſt is to <hi>hold</hi> it faſt by <hi>Profeſſion.</hi> Thus Chriſt commends the Church of <hi>Pergamus,</hi> Rev. 2.13. <hi>Thou holdeſt faſt my Name, and haſt not denied my Faith;</hi> and likewiſe the Church in <hi>Philadelphia, Rev.</hi> 3.8. <hi>Thou haſt kept my Word, &amp; haſt not denied my Name.</hi>
+            </p>
+            <p n="4">4. Laſtly; The Faith is kept by holding out, and <hi>con<g ref="char:EOLhyphen"/>ſtant Continuance</hi> and Perſeverance in all theſe, believing, practiſing and profeſſing it. This is that which receives the promiſed Reward, <hi>Mat.</hi> 24.13. <hi>He that ſhall endure unto the end, the ſame ſhall be ſaved.</hi> Rev. 2.10. <hi>Be thou faith<g ref="char:EOLhyphen"/>ful unto Death, and I will give thee a Crown of Life. Paul</hi> muſt <hi>finiſh</hi> his Courſe before he ſhall receive a Crown. Without this we ſhall come ſhort of the Prize.</p>
+            <p>Thus we have briefly ſurveyed the Character of a Chriſtian Life, which was the firſt thing obſerved in St. <hi>Paul's</hi> firſt Meditation.</p>
+            <p n="2">II. The ſecond thing propounded to be conſider'd is, the comfortable Teſtimonial which <hi>Paul</hi>'s Conſcience gave him concerning his paſt Life and Converſation; he was able to ſay in the ſincerity of his Heart, <hi>I have fought a good Fight,</hi> &amp;c.</p>
+            <p>St. <hi>Paul</hi> had long ſince made it his Exerciſe, his con<g ref="char:EOLhyphen"/>ſtant Care and Indeavour, to <hi>have always a Conſcience void of offence towards God, and towards Men,</hi> Acts 24.16.
+<pb n="19" facs="tcp:58468:9"/>And now you ſee here he reaps the fruit of it.</p>
+            <p>Accordingly as we uſe our Conſciences, ſo will they deal by us; if we wound them, they will wound us. If we keep not Peace in our Conſciences, how can they ſpeak Peace to us? But if we keep them tender and pure, they will be able to comfort us in our greateſt Streights and Difficulties.</p>
+            <p>St. <hi>Paul</hi> reflecting upon his Life paſt, his Conſcience told him what he here profeſſes of himſelf.</p>
+            <p>Firſt, That he had fought a good Fight, in a good Cauſe, and that he had fought it well, obſerving there<g ref="char:EOLhyphen"/>in the Commands of his General; That he had been painful and induſtrious, couragious and undaunted in the Work and Cauſe of Chriſt, not only as a Chriſtian, but alſo as an Apoſtle and Miniſter of the Goſpel.</p>
+            <p>He had encounter'd with <hi>Elymas</hi> at <hi>Paphos,</hi> Acts 13.</p>
+            <p>With <hi>the Retrivers of Jewiſh Ceremonies at Antioch,</hi> Act. 15.</p>
+            <p>With <hi>Stoicks</hi> and <hi>Epicureans</hi> at <hi>Athens,</hi> Acts 17.</p>
+            <p>With <hi>beaſt-like Men,</hi> ſuch as <hi>Demetrius</hi> and his Fol<g ref="char:EOLhyphen"/>lowers, at <hi>Epheſus,</hi> 1 <hi>Cor.</hi> 15.32.</p>
+            <p>With <hi>Alexander</hi> the Copper-Smith; with <hi>Hymeneus</hi> and <hi>Philetus.</hi> And in all theſe <hi>Conflicts</hi> the Goſpel ſtill prevailed, and carried the Victory.</p>
+            <p>And for his Sufferings, the Inſtances of his Chriſtian Patience, and paſſive Fortitude, take that Inventary which himſelf had drawn up ſometime before in his ſecond Epiſtle to the <hi>Corinthians,</hi> chap. 11. v. 23, <hi>&amp;c.</hi>
+               <pb n="20" facs="tcp:58468:10"/>Where he hath with great Eloquence deſcribed his Adventures to us: <hi>In Labours, abundant, in Stripes above meaſure, in Priſons frequent, in Deaths oft.</hi> V. 24. <hi>Of the Jews five times received I fourty Stripes ſave one.</hi> 25. <hi>Thrice was I beaten with Rods, once was I ſtoned, thrice I ſuffered Ship<g ref="char:EOLhyphen"/>wreck, a night and a day I have been in the Deep.</hi> 26. <hi>In journeying often, in Perils of Waters, in Perils of Robbers, in Perils by mine own Country-men, in Perils by the Heathen, in Perils in the City, in Perils in the Wilderneſs, in Perils in the Sea, in Perils among falſe Brethren.</hi> 27. <hi>In Wearineſs and Painfulneſs, in Watchings often, in Hunger and Thirſt, in Faſtings often, in Cold and Nakedneſs.</hi> Theſe and ſuch like were the Scars and Marks of Honour, which he had received for the Cauſe of Chriſt and the Goſpel; for the Truth of which he vouches the God of Truth for witneſs, <hi>v.</hi> 31. <hi>The God and Father of our Lord Jeſus Chriſt, which is bleſſed for evermore, knoweth that I ly not.</hi>
+            </p>
+            <p>Briefly; his Conſcience told him, that he had run his Race well in the ways of God's Commandments, with Zeal, Induſtry, and (which is the Crown of all) with Conſtancy. 1 <hi>Cor.</hi> 9.26. <hi>I therefore ſo run, not as uncer<g ref="char:EOLhyphen"/>tainly; ſo fight I, not as one that beateth the Air.</hi> His Con<g ref="char:EOLhyphen"/>ſcience told him that he had kept the Faith committed to his charge; and as <hi>Jeſus Chriſt</hi> had counted him faithful, putting him into the Miniſtry, 1 <hi>Tim.</hi> 1.12. So he had obtained mercy of the Lord to be faithful, 1 <hi>Cor.</hi> 7.25.</p>
+            <p>But to wave the Metaphor, I ſhall ſhew you plainly
+<pb n="21" facs="tcp:58468:10"/>theſe two things. 1. What it was that <hi>Paul</hi>'s Conſcience did teſtify. 2. What uſe he made of that Teſtimonial.</p>
+            <p n="1">1. What it was that <hi>Paul</hi>'s Conſcience did teſtify; what was the Anſwer of a good Conſcience to him: which may be reduced unto theſe two Heads. 1. Faith and Love and other Graces unfeigned. 2. A ſincere and conſtant Indeavour of univerſal Obedience.</p>
+            <p n="1">1. By reflecting upon the Actings of his own Soul, he could diſcern that he did firmly aſſent and cleave unto the Truth of Chriſt with all his Heart; that he did rely upon and truſt onely unto the Righteouſ<g ref="char:EOLhyphen"/>neſs wrought by JESUS CHRIST for his accep<g ref="char:EOLhyphen"/>tance with God, the pardon of his Sin, and his right to the heavenly Kingdom; that he had the other true ſa<g ref="char:EOLhyphen"/>ving Graces wrought in his Heart by the Spirit of God, whereby he was enabled to ſide with the Law of God in Judgment and Affection, [<gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>,] to vote with and to delight in the Law of God, and to over<g ref="char:EOLhyphen"/>bear the Ebullitions and Inſurrections of the Fleſh, and to mortify it by the Spirit, or renewed Part, and Princi<g ref="char:EOLhyphen"/>ple of Spiritual Life that was in him, which is called the <hi>inward Man,</hi> Rom. 7.22.</p>
+            <p>Theſe Principles, Habits, and Acts he knew he had; for upon reflexion, he by a rational ſenſe might feel them enabling him and proceeding from him, and ſo be con<g ref="char:EOLhyphen"/>ſcious of them. And that his Faith and Love and other Graces were unfeigned and genuine, he knew by the
+<pb n="22" facs="tcp:58468:11"/>Light of the Spirit of God ſhining through the written Word upon its own work in his heart, and by its ſpeci<g ref="char:EOLhyphen"/>al Concourſe and Aſſiſtance enabling his gracious Soul to exert and put forth ſuch vigorous and lively Acts as might eaſily be obſerved by a diligent Reflexion.</p>
+            <p>The holy Spirit of God is called a Spirit of <hi>Wiſdom</hi> and <hi>Revelation,</hi> Eph. 1.17. A Spirit of <hi>Revelation</hi> in reſpect of the Object, a Spirit of <hi>Wiſdom</hi> in regard of the <hi>Faculty.</hi>
+            </p>
+            <p>The viſible Object muſt be enlightned, elſe it cannot verge or ſend forth its viſible <hi>ſpecies,</hi> without which it cannot be ſeen; and the Eye muſt be enlightned alſo by an internal Light, elſe it cannot ſee the Object, though never ſo conſpicuous in it ſelf. Thus alſo is it here, the Spirit of God doth diſcover to us the things that are freely given to us of God, the <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>the things of the Spirit;</hi> not only Truths which it propounds to us from without, but alſo the Graces which it works within us: and thus it may be ſaid to reveal the Object to us. But then it doth alſo inlighten the Eye of the Mind with a ſpiritual Wiſdom, a Spirit of diſcerning, whereby it diſtinguiſhes and diſcerns the Work of Grace to be true and genuine, by the Characters which are gi<g ref="char:EOLhyphen"/>ven of it in the written Word.</p>
+            <p n="2">2. St. <hi>Paul</hi> by examining his own Conſcience con<g ref="char:EOLhyphen"/>cerning the diſcharge of his Duty in the whole Courſe of his Life there recorded, could obſerve (in the latter part of it, <hi>viz.</hi> ever ſince his Converſion) a ſincere
+<pb n="23" facs="tcp:58468:11"/>and conſtant Purpoſe and diligent Indeavour of univer<g ref="char:EOLhyphen"/>ſal Obedience to the Will of God, in purſuance of that reſignation of himſelf, mentioned <hi>Acts</hi> 9.6. <hi>Lord, what wilt thou have me to do?</hi> His Obedience was <hi>ſincere,</hi> though not <hi>ſinleſs;</hi> and <hi>perfect,</hi> though not legally, yet with the allowance of the Evangelical <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. According to which, <hi>aliquid fieri dicitur, quando quod non fit, ignoſcitur;</hi> when Obedience is ſincerely indeavoured, and the Fail<g ref="char:EOLhyphen"/>ings of it pardoned.</p>
+            <p>And theſe Fruits gave Letters credential to his Faith, that it was a living Faith. <hi>Hereby we do know that we know him, if we keep his Commandments,</hi> 1 John 2.3. And <hi>we know that we have paſſed from Death to Life, becauſe we love the Brethren.</hi> Love is argumentative to prove that we are in a ſtate of Grace, and the Fruits of Love bear wit<g ref="char:EOLhyphen"/>neſs unto that, 1 <hi>John</hi> 3.14.</p>
+            <p>
+               <hi>Paul</hi>'s Conſcience told him, that in his Actions he had not diſſembled with God, but that he acted out of a Principle of unfeigned Love to him, and in Conſcience of his Command; and that he directed his Actions to God's <hi>glory</hi> as his chief end. Thus much he might be well aſſured of from the Records of his Conſcience, which he had made it his care to keep clear and legible; and though it gave him notice alſo of his Sins and Failings, yet at the ſame time it repreſented them as expiated and cancelled in the Blood of Chriſt, apprehended by his Faith.</p>
+            <pb n="24" facs="tcp:58468:12"/>
+            <p>And thus you have ſeen what the Teſtimonial was which <hi>Paul</hi>'s Conſcience gave him. Now let us come to ſee,</p>
+            <p n="2">2. What Uſe St. <hi>Paul</hi> makes of this Teſtimonial. A double Uſe.</p>
+            <list>
+               <item>1. To aſſure him of a Crown of Righteouſneſs, and by that Aſſurance mediately to comfort him againſt the Fear of Death; of which I ſhall ſpeak afterwards.</item>
+               <item>2. By this conſideration to comfort himſelf imme<g ref="char:EOLhyphen"/>diately, and next way, againſt the Fear of Death.</item>
+            </list>
+            <p>The Teſtimony of a good Conſcience, <hi>Conſcientia rectè factorum,</hi> doth arm and ſupport a man againſt the gaſtly aſpect of approaching Death. For,</p>
+            <p>What is it that makes Death ſo terrible unto Mortals, that the very mention of it makes them tremble like an Aſpine-leaf? The Apoſtle tells us, <hi>The Sting of Death is Sin,</hi> 1 <hi>Cor.</hi> 15.56. The guilt of Sin upon the Conſci<g ref="char:EOLhyphen"/>ence is that which puts the Heart into ſuch a palpitation: For the Conſcience knowing, that for all thoſe Impie<g ref="char:EOLhyphen"/>ties, whereof it keeps the Regiſter, it muſt come to judg<g ref="char:EOLhyphen"/>ment, and the Books muſt be opened, and every one muſt be judged according to what is found written in the Books, it dreads Judgment to come, (as <hi>Felix</hi> did) and cannot but look upon Death as on the grim Serje<g ref="char:EOLhyphen"/>ant, that comes to arreſt us, and to ſummon us to judg<g ref="char:EOLhyphen"/>ment. This is the Sting in the Tail of Death.</p>
+            <p>But now a good Conſcience, ſprinkled with the Blood
+<pb n="25" facs="tcp:58468:12"/>of Chriſt, that ſincerely reports unto us, that we have by Faith in the Blood of Chriſt received him for the Pardon of Sin, and gives us in an holy Life in evidence of the Truth of our Faith, doth thereby ſhew that the Promiſe of the Goſpel, which was made conditional<g ref="char:EOLhyphen"/>ly, is now become abſolute unto us; and that therefore we are already paſſed from Death to Life. And then being once aſſured that our Debts are pardoned, and the Hand-writing cancelled, we fear no longer Death's Arreſt, but may ſay with this Apoſtle, <hi>O Death, where is thy Sting? Thanks be to God, who giveth us the Victory through Jeſus Chriſt our Lord,</hi> 1 Cor. 15.55, 56. Thus we ſee that the Teſtimony of a good Conſcience, (and no<g ref="char:EOLhyphen"/>thing elſe without it) can give us true and ſolid Com<g ref="char:EOLhyphen"/>fort, when we come to dy. A <hi>wicked</hi> man may, through the hardneſs of his Heart, and ſearedneſs of his Conſci<g ref="char:EOLhyphen"/>ence, be ſenſleſs and ſtupid in his Death, and ſo fall down like a Log into Hell-flames. An <hi>erroneous</hi> Con<g ref="char:EOLhyphen"/>ſcience may make a man brave it out, and (with <hi>Cur<g ref="char:EOLhyphen"/>tius</hi>) leap deſperately into the Gulf of the Bottomleſs Pit. An <hi>Hypocrite's</hi> Conſcience may ſet a fair outſide upon it, and dy (poſſibly) with ſeeming Joy; but in the midſt of Laughter his Heart is ſad: his Joy is but like the <hi>riſus Sardonius,</hi> when Men ſeem to dy laughing; but 'tis rather a <hi>Rictus</hi> than a <hi>Riſus,</hi> a <hi>grinning of the Teeth</hi> than <hi>Laughter,</hi> and ſhall end in <hi>gnaſhing of Teeth</hi> in another World. 'Tis only the Teſtimony of a good
+<pb n="26" facs="tcp:58468:13"/>and pure, ſincere and enlightned Conſcience, that can yield a man good ground of true and ſolid Comfort.</p>
+            <p>And therefore St. <hi>Paul,</hi> being now (as it were) at Death's door, takes this Cordial before he knocks, hath recourſe unto his own Conſcience for his Letters Teſti<g ref="char:EOLhyphen"/>monial, drawn up from a Survey of an holy and well<g ref="char:EOLhyphen"/>led Life; and here he finds ſupport. And the like he had done before, 2 <hi>Cor.</hi> 1.12. <hi>For our rejoycing is this, the Teſtimony of our Conſcience, that in Simplicity, and godly Sincerity — we have had our Converſation in the World.</hi>
+            </p>
+            <p>This alſo hath been the Practice and Method of other Saints and Servants of God in Scripture; who, when they were under the apprehenſion of their approaching Departure, have fetcht their Comfort from the lame Topick, which St. <hi>Paul</hi> here made uſe of, <hi>viz.</hi> the <hi>Teſtimony of a good Conſcience</hi> concerning their <hi>paſſed Lives and Converſations.</hi>
+            </p>
+            <p>Thus good <hi>Hezekiah,</hi> Iſa. 38.1, <hi>&amp;c.</hi> having recei<g ref="char:EOLhyphen"/>ved that doleful Meſſage, the <hi>Sentence of Death,</hi> pro<g ref="char:EOLhyphen"/>nounced by the mouth of the Prophet, <hi>Set thine Houſe in order, for thou ſhalt dye, and not live,</hi> whence does he look for his Comfort, but from the ſecret witneſs of his own Soul, teſtifying unto him the Sincerity of his former Courſe, which he is willing to have tryed by the Sun<g ref="char:EOLhyphen"/>beams of God's own Knowledg, <hi>v.</hi> 3. <hi>Remember now, O Lord, I beſeech thee, how I have walke I before thee in Truth, and with a perfect Heart, and have done that which is good in thy ſight.</hi>
+            </p>
+            <pb n="27" facs="tcp:58468:13"/>
+            <p>Thus <hi>Elijah,</hi> ſitting under the Juniper-tree, 1 <hi>Kin.</hi> 19.4. could not with any comfort have deſired ſeri<g ref="char:EOLhyphen"/>ouſly, as he did, that God would take away his Life from him, had he not had this aſſurance written on the Table of his own Heart, that he had been very <hi>Zealous,</hi> or <hi>Jealous, for the Lord of Hoſts,</hi> as himſelf profeſſeth <hi>v.</hi> 10.1 And how could good old <hi>Simeon</hi> with joy have ſung his <hi>Nunc dimittis,</hi> had he not known in his Conſcience what the Goſpel reports of him, that he was a <hi>juſt and devout Man, waiting for the Conſolation of Iſrael?</hi> Luk. 2.25.</p>
+            <p>As ever therefore we deſire to find Comfort in our Death, let us lead holy Lives, and keep good Conſci<g ref="char:EOLhyphen"/>ences, as <hi>Paul,</hi> and theſe other Servants of God did. There are ſcarce any ſo profligate, and given up to all Impiety, but do deſire Comfort when they come to dy. But, alas! by their wicked Lives they have ſtop't the Miniſter's mouth, ſeared the Breaſts of Conſolation, and cut off thoſe Conduit-pipes which ſhould have con<g ref="char:EOLhyphen"/>veyed Comfort into their Souls. There be many, who will be ready to ſay with <hi>Balaam, O let me dy the Death of the Righteous, and let my last end be like his;</hi> but they will not live the Life of the Righteous. <hi>Mark the per<g ref="char:EOLhyphen"/>fect Man, and behold the upright; for the end of that Man is peace.</hi> Pſal. 37.37. But, alas! what Peace can thy Conſcience, or any other, ſpeak to thee, while thy cry<g ref="char:EOLhyphen"/>ing Sins and Impieties are ſo many? <hi>Light is ſown for the Righteous, and Joy for the Upright in Heart,</hi> Pſal. 97.11.
+<pb n="28" facs="tcp:58468:14"/>A man may with as much reaſon expect to reap where he hath not ſown, as to reap Joy and Comfort in Death, without ſowing the Seed of it in an holy Life. Sow then in thy Life-time what thou wouldeſt reap when thou comeſt to dy.</p>
+            <p>And thus I have done with St. <hi>Paul</hi>'s Firſt Meditation, or his Reflexion upon his former Life well-ſpent. I come to the Second.</p>
+            <p>
+               <hi>Medit.</hi> 2. St. <hi>Paul</hi>'s ſecond Meditation is a <hi>Proſpect into the Life to come,</hi> and the <hi>Glory of it,</hi> together with <hi>his own Share in it.</hi>
+            </p>
+            <p>Wherein we have theſe Severals to be taken into our Conſideration.</p>
+            <list>
+               <item>1. The <hi>Reward</hi> it ſelf, called a <hi>Crown of Righteouſneſs.</hi>
+               </item>
+               <item>2. The <hi>Certainty</hi> of it, in thoſe words, <hi>laid up for me.</hi>
+               </item>
+               <item>3. The <hi>Beſtower</hi> of it, <hi>the Lord, the Righteous Judg, ſhall give me.</hi>
+               </item>
+               <item>4. The <hi>Time,</hi> when it ſhall be beſtowed, <hi>at that day.</hi>
+               </item>
+            </list>
+            <p>I. The <hi>Reward it ſelf,</hi> which is no other than Eternal Life, the Glory and Joys of Heaven. Which we have here ſet forth unto us under the Metaphor of a <hi>Crown of Righteouſneſs.</hi>
+            </p>
+            <p>The Joys and Glory of Heaven are called a <hi>Crown.</hi>
+            </p>
+            <p n="1">1. Becauſe Eternal Life and Bleſſedneſs are promiſed to us under the Notion of an <hi>Heavenly Kingdom,</hi> Luk. 12.32. <hi>Fear not, little Flock; for it is your Father's good plea<g ref="char:EOLhyphen"/>ſure to give you the Kingdom.</hi> And Chriſt hath made all
+<pb n="29" facs="tcp:58468:14"/>his Members <hi>Kings</hi> and <hi>Prieſts,</hi> Rev. 1.6. <hi>A Royal Prieſt<g ref="char:EOLhyphen"/>hood,</hi> 1 Pet. 2.9. And therefore a <hi>Crown</hi> or <hi>Diadem,</hi> which is the Enſign of Majeſty and Royalty, is very aptly u<g ref="char:EOLhyphen"/>ſed to expreſs their future Eſtate by: which is an Allu<g ref="char:EOLhyphen"/>ſion to the Political uſe of the Crown.</p>
+            <p n="2">2. Eternal Bliſs is called a <hi>Crown,</hi> in alluſion to thoſe <hi>Crowns</hi> or <hi>Garlands,</hi> which were uſed in rewarding ſuch as conquered in the <hi>Olympick</hi> Contentions; which was an <hi>Agoniſtical</hi> Uſe of the <hi>Crown,</hi> to which St. <hi>Paul</hi> ſeems here to have alluded. Thoſe who conquered in Fighting, or overcame in Running, or in Wreſtling, had their ſeve<g ref="char:EOLhyphen"/>ral Crowns beſtowed on them. Now <hi>Paul</hi> had <hi>fought a good Fight,</hi> and had <hi>finiſhed his Courſe;</hi> and therefore his Reward ſhall be a <hi>Crown:</hi> not like theirs, a corruptible Crown of Flowers, or Herbs, which are ſoon wither'd; but <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>that never fades,</hi> 1 Cor. 9.25. Which is called by our Saviour, a <hi>Crown of Life,</hi> Rev. 2.10. And by St. <hi>Peter,</hi> a <hi>Crown of Glory,</hi> 1 Pet. 5.4. And here by St. <hi>Paul, a Crown of Righteouſneſs;</hi> and that not as if it were <hi>merited</hi> by his Righteouſneſs, (as ſome would have it) but,</p>
+            <list>
+               <item>(1.) Becauſe it is a <hi>Reward of Righteouſneſs,</hi> not of our <hi>deſerving,</hi> but of God's <hi>free giving.</hi> The Crown is given to ſuch, and ſuch only, as are Righteous, though not for the merit of their Righteouſneſs. God rewards and crowns his own Graces in his Children. Godlineſs hath the Promiſes of this Life, and that which is to come.</item>
+               <item>(2.) Becauſe it is a Crown <hi>due unto the Righteouſneſs
+<pb n="30" facs="tcp:58468:15"/>and Merits of Jeſus Chriſt,</hi> who hath merited it for us, and hath made us Kings and Prieſts unto his Father.</item>
+               <item>(3.) Becauſe it is a Crown which God <hi>in Righteouſ<g ref="char:EOLhyphen"/>neſs</hi> will give unto us, as <hi>merited for us</hi> by Chriſt Jeſus. Hence it is ſaid emphatically here, <hi>which the Lord, the Righteous Judg, ſhall give me.</hi> Chriſt ſhall give it <hi>adjudi<g ref="char:EOLhyphen"/>cando,</hi> by <hi>adjudging it to us;</hi> and his Father <hi>tradendo,</hi> by <hi>delivery:</hi> Chriſt by Sentence; the Father by actual Exe<g ref="char:EOLhyphen"/>cution.</item>
+            </list>
+            <p>So much be ſpoken of the firſt Particular, the <hi>Re<g ref="char:EOLhyphen"/>ward it ſelf.</hi> The ſecond follows, which is,</p>
+            <p>II. The <hi>Certainty</hi> of this Reward, <hi>laid up for me.</hi> Where<g ref="char:EOLhyphen"/>in we have a double Certitude expreſſed, 1. <hi>Objecti, ſive Rei.</hi> 2. <hi>Subject live Spei &amp; Fidei.</hi>
+            </p>
+            <p n="1">1. Here is a Certitude of the thing it ſelf; the Crown ſhall certainly and really be beſtowed and conferred up<g ref="char:EOLhyphen"/>on <hi>Paul</hi> in the Iſſue, he ſhall not miſs of it. Thus much is intimated in the word, <hi>laid up;</hi> which implies,</p>
+            <list>
+               <item>(1.) That it is appointed and ſet apart for him: and ſo it was <hi>Deſignatione Patris,</hi> by the Father's election; <hi>Merito Filii,</hi> by Chriſt's purchaſe; and <hi>Promiſſione Verbi,</hi> by the word of Promiſe.</item>
+               <item>(2.) It is prepared and provided. Hence it is called <hi>a Kingdom prepared for you from the foundation of the World.</hi> Mat. 25.34. And our Saviour tells his Diſciples, <hi>John</hi> 14.2, 3. <hi>I go to prepare a place for you.</hi> And ſurely great muſt that needs be which <hi>He</hi> prepares, and which hath been ſo long in preparing.</item>
+               <pb n="31" facs="tcp:58468:15"/>
+               <item>(3.) <hi>Laid up,</hi> implyes, that this Crown is kept ſafe and preſerved: hence ſaid to be <hi>reſerved for us in the Hea<g ref="char:EOLhyphen"/>vens,</hi> 1 Pet. 1.4. whither none can break through to ſteal it away.</item>
+               <item>(4.) <hi>Laid up alſo, out of ſight,</hi> to be ſeen only by the Eye of Faith; <hi>Hope which is laid up for you in Heaven,</hi> Col. 1.5. Not <hi>ſeen,</hi> but nevertheleſs <hi>ſure,</hi> becauſe ſafe<g ref="char:EOLhyphen"/>ly laid up; and being diſcerned by the Eye of Faith, it miniſters abundant cauſe of Joy and Comfort, as may be inferred from 1 <hi>Pet.</hi> 1.8.</item>
+            </list>
+            <p n="2">2. Here St. <hi>Paul</hi> profeſſes a Certitude or Aſſurance, which he had in his own Soul, that he ſhould receive the Crown: <hi>For me,</hi> for <hi>him</hi> in particular. <hi>David</hi> ſaith, <hi>Verily there is a Reward for the Righteous;</hi> but <hi>Paul</hi> ſaith, <hi>for me,</hi> by a particular application to himſelf.</p>
+            <p>A true Believer then (it ſeems) may attain unto an aſſurance of his own ſalvation. He may be aſſured of his preſent ſtate, that he is paſſed from Death to Life; and he may be aſſured alſo, that he ſhall perſevere, and be <hi>kept by the Power of God through Faith unto Salvation.</hi> And therefore St. <hi>Peter</hi> exhorts to <hi>give all diligence to make your Calling and Election ſure,</hi> 2 Pet. 1.10. Our <hi>Election</hi> by our <hi>Calling:</hi> obſerve the order. And St. <hi>Paul</hi> ſpeaketh ex<g ref="char:EOLhyphen"/>preſly, <hi>Rom.</hi> 8.38, 39. <hi>I am perſwaded, that neither Death, nor Life,</hi>— <hi>ſhall ſeparate us from the Love of God which is in Christ Jeſus our Lord.</hi> There he declares his aſſurance of Perſeverance; and he ſpeaks for others as well as himſelf,
+<pb n="32" facs="tcp:58468:16"/>
+               <hi>ſeparate us.</hi> And ſo here in the Text, <hi>Not to me only, but unto all them alſo that love his appearing.</hi> And the way to at<g ref="char:EOLhyphen"/>tain unto this aſſurance of Perſeverance and Salvation, <hi>St. Peter</hi> hath ſhewed us, 2 <hi>Pet.</hi> 1.5, 8, 10. <hi>Add unto Faith Vertue, and to Vertue Knowledg,</hi> &amp;c. (1.) Get true Grace into your hearts, a Principle of ſpiritual Life, and grow in Grace. (2.) Act Grace vigorouſly. <hi>For if theſe things be in you, and abound, they make you that you ſhall nei<g ref="char:EOLhyphen"/>ther be barren nor unfruitful: for if ye do theſe things, ye ſhall never fall.</hi> And ſurely they may <hi>know</hi> that they do them. In like manner <hi>St. Paul</hi> argues here, <hi>I have fought a good Fight,</hi> &amp;c. <hi>Henceforth,</hi> 
+               <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. The word in the <hi>Greek</hi> hath the force of an Illative, <hi>therefore, ergo</hi> or <hi>igitur,</hi> (and ſo we may find it tranſlated in <hi>H. Stephan.</hi>) as if <hi>Paul</hi> had here ſaid more expreſly, Hence I conclude and infer; it re<g ref="char:EOLunhyphen"/>mains and follows, not only in ſequence of Time, but by conſequence and force of Argument; <hi>relinquitur tanquam emergens è praemiſſis,</hi> it follows from the premiſſes of an holy Life; <hi>There is laid up for me a Crown of Life.</hi>
+            </p>
+            <p>Where <hi>St. Paul</hi>'s way of arguing himſelf into his Aſ<g ref="char:EOLhyphen"/>ſurance is very obſervable, and deſerves to be taken no<g ref="char:EOLhyphen"/>tice of, as the beſt and moſt uſual way whereby all Be<g ref="char:EOLhyphen"/>lievers may come to be aſſured of their Salvation. And thus he argues:</p>
+            <p>All thoſe that love Chriſt's appearing, ſhall receive a Crown of Righteouſneſs:</p>
+            <p>But I am one of thoſe who love Chriſt's appearing:
+<pb n="33" facs="tcp:58468:16"/>Therefore I ſhall receive a Crown of Righteouſneſs.</p>
+            <p>The <hi>Major,</hi> or the firſt of theſe Propoſitions, is ex<g ref="char:EOLhyphen"/>preſs in the end of this 8th Verſe, which <hi>Paul</hi> was aſſured of by Faith in the Promiſes, made in general in the Word of God: <hi>Whoſoever believeth, ſhall not dye, but hath everlaſting Life,</hi> &amp;c.</p>
+            <p>The <hi>Minor,</hi> or ſecond Propoſition, he gives us the Proof of, in that his Profeſſion; <hi>I have fought a good Fight, I have finiſhed my Courſe; I have kept the Faith;</hi> which who<g ref="char:EOLhyphen"/>ſoever do, do alſo love Chriſt's appearing: And there<g ref="char:EOLhyphen"/>fore they are put here by <hi>Paul,</hi> as Characteriſtical of the ſame Perſons.</p>
+            <p>If you will have the Argument in form take it thus: All that have fought a good Fight, love Chriſt's ap<g ref="char:EOLhyphen"/>pearing:</p>
+            <p>But I have fought a good Fight:</p>
+            <p>Therefore I love Chriſt's appearing.</p>
+            <p>How St. <hi>Paul</hi> came to be aſſured that he had fought a good Fight, I ſhewed before; briefly now; He knew that he believed, that he had <hi>fought,</hi> and <hi>run,</hi> and <hi>kept the Faith,</hi> by <hi>reflecting upon the Operations of his own Soul;</hi> as a Man that thinks, may be aſſured that he thinks, by a kind of rational Senſation, whereby the Soul is conſcious of its own Acts. But that his Faith and other Graces were true and genuine, he might gather from the effects and fruits of them, as here (we ſee) he doth from his Fighting and Running, and from obſerving his own Sincerity in the
+<pb n="34" facs="tcp:58468:17"/>anſwer of a good Conſcience and Faith unfeigned; while the Spirit of Grace doth by ſhining upon its own work in his Heart illuminate the Object, and by enlight<g ref="char:EOLhyphen"/>ning the eyes of his Soul enable the Faculty to apprehend and diſcern that Object, that it is indeed the genuine Work of the Spirit in his Soul. And thus the holy Spirit of God, by making us to <hi>know the things that are freely gi<g ref="char:EOLhyphen"/>ven unto us of God,</hi> 1 Cor. 2.12. doth <hi>bear witneſs with our Spirits, that we are the Children of God,</hi> Rom. 8.16.</p>
+            <p>I will not deny but that this Aſſurance which <hi>Paul</hi> had was a ſpecial Priviledg, not common to all, nor to many true Believers. All true Believers have not Aſſurance; ſome have not yet attained to it, others may have loſt it; yet all muſt endeavour after it, and all may attain to it, ſeeing the Grounds and Arguments whence it may be inferred, are common to all in ſome degree. But they being eminent in St. <hi>Paul,</hi> his Knowledg clearer, his Love ſtronger, his Zeal hotter, his Obedience greater than thoſe of others; hence his Aſſurance was fuller, and few can arrive to his pitch. Yet ſince all true Believers have like kind of Evidence, <hi>in ſuo quiſ<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> modulo,</hi> according to their ſeveral meaſures, and have the general Promiſes; do believe and endure to the end, and are faithful unto the death; therefore all true Believers may poſſibly at<g ref="char:EOLhyphen"/>tain to be aſſured of their preſent ſtate of Salvation, and that they ſhall perſevere therein, and ſo in the end enter into the Kingdom of Glory, and receive the end of their Hopes, the <hi>Salvation of their Souls.</hi>
+            </p>
+            <pb n="35" facs="tcp:58468:17"/>
+            <p>No danger that this Doctrine of Believers, being aſ<g ref="char:EOLhyphen"/>ſured of their Salvation, ſhould encourage them in the leaſt to indulge themſelves to commit Sin, ſeeing it ariſeth and is cheriſhed <hi>ex intuitu,</hi> from the beholding of the actings of Grace in our hearts and lives. Holineſs of life is the ground of Aſſurance; if that once flag, this muſt needs alſo fail: for if upon reflexion we find our lives unholy, this cuts the ſinews of Aſſurance by taking away the Argument, by force whereof it is, and with<g ref="char:EOLhyphen"/>out which it cannot be, inferred or concluded. <hi>Extra ſtudium Sanctitatis &amp; uſum Mediorum, non poteſt in actum exire haec Fidei perſuaſio,</hi> was the Suffrage of our Divines concerning aſſurance of Perſeverance.</p>
+            <p>But I am call'd away to conſider the other particu<g ref="char:EOLhyphen"/>lars, which yet remain to be ſpoken to; and I ſhall do it very briefly.</p>
+            <p n="3">3. The Beſtower of this Reward. <hi>The Lord, the righ<g ref="char:EOLhyphen"/>teous Judge.</hi> By <hi>the Lord</hi> here, is meant the Lord Jeſus Chriſt, as appears by that which is added, <hi>the righteous Judge;</hi> for unto Him hath God the Father committed all Judgment, even to the Son. The Perſon of CHRIST God-Man, ſhall execute and actually exerciſe the Acts of Judging at the laſt Day. Hence it is ſaid, <hi>Act.</hi> 17.31. <hi>God hath appointed a Day wherein he will judge the World by the Man</hi> CHRIST JESUS. And Chriſt himſelf ſaith, Mat. 7.23. <hi>I will profeſs unto them, I never knew you; depart from me.</hi> And Rev. 2.10. <hi>I will give thee a Crown of Life.</hi>
+            </p>
+            <pb n="36" facs="tcp:58468:18" rendition="simple:additions"/>
+            <p>There is one in the World, who undertakes to diſ<g ref="char:EOLhyphen"/>poſe of earthly Crowns and Scepters to whomſoever he pleaſes; yea, and of the Crown of Righteouſneſs too, and the Kingdom of Heaven; wherein yet he falls ſhort of the modeſty of him, whoſe true Vicegerent he is, for <hi>He</hi> pretended no further than to give all the Kingdoms of the Earth, and the glory of them. <hi>Luke</hi> 4.5, 6. <hi>All this is delivered unto me, and to whomſoever I will, give it.</hi> But what ever others may pretend unto, The Lord Jeſus Chriſt is the only diſpenſer of this Crown of Righteouſneſs, the Crown of heavenly Glory. Jeſus Chriſt he is Judge.</p>
+            <p>Which ſpeaks infinite Comfort unto all true Belie<g ref="char:EOLhyphen"/>vers; their Advocate ſhall be their Judge, and there<g ref="char:EOLhyphen"/>fore they may promiſe themſelves all lawful favour: But he is a <hi>Righteous Judge;</hi> this affords further comfort, <hi>He is faithful who has promiſed;</hi> His Promiſes are <hi>Yea, and Amen.</hi> By his free Promiſe he hath made himſelf a deb<g ref="char:EOLhyphen"/>tor; though not ſo much to us, as to himſelf, and his own truth. So that it is now but a righteous thing with God to recompence reſt unto his perſecuted Servants, 2 <hi>Theſſ.</hi> 1.7.</p>
+            <p n="4">4. The laſt thing to be conſidered in the words, is the time when this Crown of Righteouſneſs ſhall be given to <hi>Paul. At that day,</hi> viz. <hi>when <gap reason="illegible" resp="#MURP" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> the Lord Jeſus ſhall be revealed from Heaven with his mighty Angels,</hi> as we have it in the place laſt cited. Which time our Saviour
+<pb n="37" facs="tcp:58468:18"/>points out by <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>Mat.</hi> 7.22. in <hi>that</hi> day, by way of emphaſis. And ſo St. <hi>Paul</hi> loves to call it, as he doth three ſeveral times in this Epiſtle. Chap. 1.12. <hi>He is able to keep that which I have committed to him againſt [that Day.]</hi> And Verſ. 18. <hi>The Lord grant that he may find mer<g ref="char:EOLhyphen"/>cy at that Day.</hi> The Day of the General Judgment lay uppermoſt in <hi>Paul</hi>'s mind, and his thoughts ran much upon it; and no wonder if his eye was always upon his Crown, for that is the time when he ſhall receive this Crown of Righteouſneſs.</p>
+            <p>It is true indeed, that at the day of Death, when the faithful Soul ſhall return to God that gave it, and be reſigned up into the hands of Jeſus Chriſt, it ſhall be perfected in Holineſs, and enter into the Kingdom of Heaven: but the glory ſhall not be perfect and com<g ref="char:EOLhyphen"/>pleat until ſuch time as the Body, which has been the Souls yoke-fellow and companion in doing and ſuffer<g ref="char:EOLhyphen"/>ing for Chriſt here, ſhall be redeemed from the Grave, (for which we are ſaid <hi>to wait,</hi> Rom. 8.23. Hence the Souls from under the Altar cry, <hi>how long?</hi> Rev. 6.10. and hence it is that the Spirit and the Bride ſay, <hi>Come,</hi> Rev. 22.17. <hi>Come quickly,</hi> v. 20.) Then ſhall the Soul and Body (now again united) be preſented to Jeſus Chriſt at his appearing, and ſo the whole Man ſhall be rewarded, and be for ever with the Lord.</p>
+            <p>At the day of Death ſhall be a privy Seſſions for every particular Soul; but the general Aſſize ſhall be at <hi>that
+<pb n="38" facs="tcp:58468:19"/>Day,</hi> that great Day of Univerſal Judgment. The be<g ref="char:EOLhyphen"/>lieving Soul at the day of Death ſhall enter into the Heavenly Kingdom; but the Solemnity of its Coro<g ref="char:EOLhyphen"/>nation ſhall be deferred till <hi>that day;</hi> then, and not till then, ſhall its Glory and Happineſs be compleated.</p>
+            <p>And thus much briefly be ſpoken concerning St. <hi>Paul</hi>'s Second Meditation, wherein he expreſſes his Aſſurance of a glorious Reward, <hi>a Crown of Righteouſneſs.</hi> Now let us only ſee what <hi>Uſe</hi> he makes of this Aſſurance, and ſo conclude.</p>
+            <p>
+               <hi>Aſſurance of Salvation</hi> is of uſe unto Believers, to encou<g ref="char:EOLhyphen"/>rage them to ſet upon their Duty with zeal and cheerful<g ref="char:EOLhyphen"/>neſs, by inflaming their Love to God, the Principle of their Obedience. Who will not be encouraged to fight couragiouſly, that is aſſured of Victory? And the La<g ref="char:EOLhyphen"/>bourer works cheerfully, when he is once aſſured that he ſhall receive his pay when his work is done. And there<g ref="char:EOLhyphen"/>fore St. <hi>Paul</hi> exhorts, 1 <hi>Cor.</hi> 15.58. <hi>Therefore, my beloved Brethren, be ye ſtedfaſt, unmoveable, always abounding in the work of the Lord; foraſmuch as ye know that your Labour is not in vain in the Lord.</hi>
+            </p>
+            <p>But the Uſe which St. <hi>Paul</hi> here makes of his Aſſurance is, to <hi>comfort him againſt Death approaching.</hi> The Teſtimo<g ref="char:EOLhyphen"/>ny of his Conſcience clear'd from the guilt of Sin, did take away the Sting and Fear of Death: but this his Cer<g ref="char:EOLhyphen"/>tainty and Aſſurance of Glory doth make Death, not on<g ref="char:EOLhyphen"/>ly not formidable to him, but deſirable; when once he
+<pb n="39" facs="tcp:58468:19"/>could ſay, as he did, 2 <hi>Cor.</hi> 5.1. <hi>We know that if our earthly Houſe of this Tabernacle were diſſolved, we have a Building of God, an Houſe not made with hands, eternal in the Heavens.</hi> It is no wonder if he ſaid, (<hi>Phil.</hi> 1.23.) that he had <hi>a deſire to depart, and to be with Chriſt.</hi> And when he had ſaid, 1 <hi>Theſſ.</hi> 4.17. <hi>So ſhall we ever be with the Lord;</hi> he might well add in the next verſe, <hi>Wherefore comfort one another with theſe words.</hi> This Conſideration affords Comfort un<g ref="char:EOLhyphen"/>to all faithful Souls in reſpect of themſelves; ſo alſo to the ſurviving Relations of ſuch, as have with St. <hi>Paul, fought a good Fight,</hi> and <hi>finiſh'd their Courſe,</hi> and <hi>kept the Faith,</hi> inaſmuch as for all ſuch there is <hi>laid up a Crown of Righteouſneſs,</hi> a Crown of Life and Glory, <hi>which the Lord, the Righteous Judg, ſhall give them at that day.</hi>
+            </p>
+            <p>In which Number we may confidently reckon that vertuous Lady, and precious Servant of Jeſus Chriſt, the Lady <hi>Elizabeth Alſton,</hi> whoſe Funerals we now celebrate. Concerning whom very much might with truth be ſpo<g ref="char:EOLhyphen"/>ken in her commendation; but the ſuddenneſs of the Occaſion, and the time of the Night, will not allow me to ſpeak much; yet ſomething I crave leave to ſpeak of her. Not that ſhe her ſelf, when alive, deſired the praiſes of men; nor that ſhe needs them now, being al<g ref="char:EOLhyphen"/>ready in the poſſeſſion of heavenly Glory: but that we by recounting to our ſelves ſome of her Vertues, may become ſenſible of the greatneſs of our own loſs; and ſetting her eminent Graces before our Eyes, may both
+<pb n="40" facs="tcp:58468:20"/>make them the matter of our giving praiſe and glory to God, and alſo the Copy and Example of our Chriſtian Imitation.</p>
+            <p>She was deſcended of an eminent Family, the <hi>Saint-Johns</hi> of <hi>Woodford</hi> in <hi>Northampton-ſhire.</hi> But ſhe was more highly deſcended than ſo, and better born, being born a<g ref="char:EOLhyphen"/>gain, <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, from above (as ſome interpret the word) and ſo, neerly related unto him who is called <hi>the Branch,</hi> or <hi>Day-ſpring from on high,</hi> the Lord of life and glory, the Prince of Peace, and Saviour of us all. By this Line ſhe was a Child of God, and born Heir apparent of the Kingdom of Heaven. For God did even in her tender years ſeaſon her Heart with Grace, and thereby take poſ<g ref="char:EOLhyphen"/>ſeſſion of her, beſpeaking her (as it were) betimes, and fit<g ref="char:EOLhyphen"/>ting her for that work, which he afterwards made uſe of her in, <hi>viz.</hi> the ſeaſoning of others with Religion, and the holding forth the power of Godlineſs in the midſt of a crooked and perverſe Generation, among whom ſhe did ſhine as a Light in the World, and did let her Light, <hi>ſo to ſhine before men, as that they might ſee her good Works, and glorify her heavenly Father.</hi>
+            </p>
+            <p>She was towards her Conjugal Relation, a moſt lo<g ref="char:EOLhyphen"/>ving, faithful and dutiful Wife, an Help meet for him.</p>
+            <p>Towards her Children, a moſt tender and careful Mother, whom ſhe did not ſatisfy her ſelf to have once brought forth, but (as St. <hi>Paul</hi> ſaith he did of his <hi>Galati<g ref="char:EOLhyphen"/>ans,</hi> Gal. 4.19.) ſhe <hi>travailed again of them, that Chriſt might be formed in them.</hi>
+            </p>
+            <pb n="41" facs="tcp:58468:20"/>
+            <p>She was to her Servants kind and merciful, eſpeci<g ref="char:EOLhyphen"/>ally to their Souls. Towards all her Friends true and faithful. Towards all with whom ſhe converſed, ex<g ref="char:EOLhyphen"/>ceeding humble and courteous; condeſcending very much towards them of low degree, and eſpecially lo<g ref="char:EOLhyphen"/>ving thoſe among them in whom ſhe obſerved but any inclinations to God and Goodneſs.</p>
+            <p>But remarkable were her Charity and Piety.</p>
+            <p>Her <hi>Charity,</hi> in ſupplying the wants of the Indigent, not onely with Food and Phyſick for their Bodies, (wherein ſhe expended not a little) but alſo with Phy<g ref="char:EOLhyphen"/>ſick for their Souls, by her wholſom counſel and advice, vvhich ſhe was ready to beſtow on all that needed it.</p>
+            <p>Her <hi>Piety</hi> towards God was moſt eminent, ſhe being careful to walk cloſely and conſcientiouſly with him; and as he had bleſſed her with good natural Abilities, ſo ſhe was careful to improve them by diligent Read<g ref="char:EOLhyphen"/>ing and Meditation, and thereby having gained a good ſtock of Knowledg, ſhe reduced it to practice, the right end of knowing.</p>
+            <p>Witneſs her conſtant Cloſet-devotions, and ſeeking God in private; to vvhich ſhe received many gracious Returns, if not in <hi>kind,</hi> yet in <hi>kindneſs;</hi> if not in the particu<g ref="char:EOLhyphen"/>lar things which ſhe asked for, yet in ſubmiſſion to God's Will, and in the graces and comforts of his Spirit, as ſhe her ſelf had made the obſervation. Witneſs her con<g ref="char:EOLhyphen"/>ſcientious care that the Duties of Religion might be maintain'd and kept up in her Family. And how dili<g ref="char:EOLhyphen"/>gent
+<pb n="42" facs="tcp:58468:21"/>ſhe was in her attendance upon the publick Preach<g ref="char:EOLhyphen"/>ing of the Word of God, moſt of you are Witneſſes; and how deſirous ſhe was that all others ſhould do the like. And it is well known to ſome how much ſhe be<g ref="char:EOLhyphen"/>wail'd the vvithdrawing of others from the publick Or<g ref="char:EOLhyphen"/>dinance, the means of their Salvation, endeavouring to reclaim them.</p>
+            <p>This was the conſtant courſe and tenour of her Life, vvhich vvas a living practice of Piety, and a conſtant vvalking vvith God, (as <hi>Enoch</hi>'s life vvas): and God took her unto himſelf; her, vvho had lived to him here, to live with him for ever; her, who had walked with him on Earth, to reſt with him for ever in Heaven.</p>
+            <p>Indeed her departure hence vvas very ſudden, (as it has been of many others lately hereabouts) yet it was more ſudden unto others than to her ſelf. For Death is not ſudden to thoſe who expected it, and provided for it.</p>
+            <p>That ſhe vvas provided and prepared for Death, I do not in the leaſt queſtion; her holy Life vvas a conti<g ref="char:EOLhyphen"/>nual preparation for Death, ſo that ſhe might ſay vvith St. <hi>Paul, I die daily.</hi> Thoſe many Afflictions wherewith God was pleaſed to exerciſe her, frequent ſickneſs, and many bodily infirmities, loſs of Children and other near Relations, had weaned her from the World, and taught her humbly to ſubmit to God's will when ever he ſhould call; but the ſenſe of God's Love in Chriſt to her Soul, had made her more than vvilling to depart, and to be vvith Chriſt.</p>
+            <pb n="43" facs="tcp:58468:21"/>
+            <p>As for her expectation of Death, ſhe had long ex<g ref="char:EOLhyphen"/>pected that it would be ſudden, having been often heard to ſay that ſhe ſhould die of an <hi>Apoplexy,</hi> which uſually gives no great warning. But for her expectation of death at that time when it came, I have not heard it was of any long ſtanding, ſhe being on Saturday laſt (the eighth of <hi>September</hi>) about ten in the morning ſurprized with an extraordinary coldneſs in her left hand, which caus'd her haſten up into her Chamber, where within a little time the diſeaſe took her Head, (the fountain of Senſe and Reaſon) and from thence ſliding down into her Heart, (the Citadel of Life) did vvithin the ſpace of two hours put an end unto her days: <hi>(Watch therefore, for ye know not what hour your Lord cometh.)</hi> But as ſudden as her end was, ſhe was ſo far aware of it (bleſſed be God) that ſhe vvas able to ſay vvith St. <hi>Paul,</hi> (in the verſe before my Text) <hi>The time of my departure is at hand;</hi> for to that purpoſe did ſhe expreſs her ſelf to one of her Servants, ſaying, <hi>My time is but ſhort, ſhorter than you imagine.</hi> And then in the words of holy <hi>Job,</hi> declar'd her firm truſt in Chriſt, <hi>I know that my Redeemer liveth.</hi> And the laſt words which ſhe was heard to ſpeak were <hi>Jeſus Chriſt,</hi> into vvhoſe hands (as we may well ſuppoſe) ſhe did at that time commend her Spirit. The Lord Jeſus Chriſt, her Saviour, vvhom ſhe had in her heart while ſhe lived, ſhe had in her mouth as ſhe died, and now doubtleſs hath him in her arms, and ſhall be ever with the Lord. Indeed ſhe had expreſſed formerly a deſire that God vvould
+<pb n="44" facs="tcp:58468:22"/>pleaſe to give her time to ſpeak to her Friends at part<g ref="char:EOLhyphen"/>ing: This he was not pleaſed to grant her, but the acti<g ref="char:EOLhyphen"/>ons of her life, and thoſe many good Counſels vvhich ſhe gave in her life-time are ſtill vocal; and by them, though dead, ſhe ſtill ſpeaketh. And I hope her neareſt Relations, and others alſo, will allow her living Coun<g ref="char:EOLhyphen"/>ſel and Example, the force of dying-words, to be conti<g ref="char:EOLhyphen"/>nually ſounding in their ears, and always thought upon in their minds, to excite them to the practice of that which ſhe thereby left recommended to them.</p>
+            <p>But in the eaſineſs of her paſſage God granted, if not prevented her deſires. The <hi>Jews</hi> ſay <hi>Moſes</hi> died <hi>binſhikah,</hi> by a kiſs from the mouth of God, becauſe it is ſaid, <hi>Deut.</hi> 34.5. that he died <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>upon the Mouth of the Lord,</hi> or <hi>according to the Word of the Lord;</hi> and that God drew his Soul out of his Body with a Kiſs. But thus much we are ſure of, that God ſaid unto him, <hi>Deut.</hi> 32.49, 50. <hi>Get thee up, and die in the Mount.</hi> So did he ſeem to ſay unto this <hi>his Servant</hi> alſo, Go up into thy Chamber, and die there: and ſo ſhe did. The Meſſenger of Death took her by the left hand, and led her home unto her Father's Houſe. Where let us leave her to her eternal reſt, and pray earneſtly to God, That as ſhe brought Religion, and a Bleſſing along with her into this Worthy Family, and this Unworthy Place; ſo in anſwer to her many, many Prayers, the Bleſſing and good Preſence of God may be continued to us now ſhe is dead and gone.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:58468:22"/>
+         </div>
+      </body>
+   </text>
+</TEI>
